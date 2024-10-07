@@ -6,3 +6,9 @@ Group 6 Project Graph Theory Demonstration - Graph Theory IUP 2024
 | 5025221065 | Samuel Josefano Kaloh |
 | 5025221092 | Rayhan Fathurrahman Zata Amani |
 | 5025221097 | Radian Try Darmawan |
+
+## Knight's Tour
+
+### Solution Overview
+
+This solution aims to solve the knight's tour problem which is a sequence of moves of a knight on a chessboard such that the knight visits every square exactly once.
