@@ -1,4 +1,4 @@
-# project-w7-graph-theory
+# Graph: TSP & Knight's Tour Problems
 Group 6 Project Graph Theory Demonstration - Graph Theory IUP 2024
 
 |    NRP     |      Name      |
