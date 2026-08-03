@@ -1,6 +1,7 @@
 # Graph: TSP & Knight's Tour Problems
-Group 6 Project Graph Theory Demonstration - Graph Theory IUP 2024
+Graph Theory Assignment: TSP & Knight's Tour Problems
 
+Group 6 - ITS Informatics IUP 2024
 |    NRP     |      Name      |
 | :--------: | :------------: |
 | 5025221065 | Samuel Josefano Kaloh |
